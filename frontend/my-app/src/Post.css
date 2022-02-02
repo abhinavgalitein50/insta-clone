@@ -1,0 +1,13 @@
+.post__Image{
+    width: 100%;
+    object-fit: contain;
+}
+
+.post__text{
+    padding-bottom: 3rem;
+    font-weight: normal;
+}
+
+.post__header{
+    display: flex;
+}
